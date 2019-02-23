@@ -1,8 +1,5 @@
 # Environment
 venv
 
-# VSC stuff
-.vscode
-
 # MacOS stuff
 .DS_Store
